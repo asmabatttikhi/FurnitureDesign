@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+
+header{
+  background-color: gray;
+  color: antiquewhite;
+  height: 200px;
+}
+
+header h1{
+  text-align: center;
+  padding-top: 60px
+}
+
+header h2{
+  text-align: center;
+}
+
+#section1 {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+}
+
+#section1 nav ul li {
+  padding-top: 5px;
+  padding-bottom: 10px;
+ display: inline;
+ padding: 20px
+}
+
+#section2{
+  background-color: gray;
+  color: antiquewhite;
+  padding: 30px;
+}
+
+#section3{
+  text-align: center;
+  padding: 10px;
+}
+
+#section3 dev ul li{
+  padding: 10px;
+}
