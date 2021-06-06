@@ -26,3 +26,4 @@ var roomNumber = prompt ("how many rooms do you have")
 for (var i = 0 ; i < roomNumber ; i++){
   document.write("<img src='roomOutline.jpg' alt='room' height='100 pixel' width='90 pixl'>")
 }
+
